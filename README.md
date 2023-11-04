@@ -1,0 +1,2 @@
+# whitty
+Personalized CLI tool
